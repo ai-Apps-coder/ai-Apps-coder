@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Ioan Ciprian Popa 👋</h1>
-  <h3 align="center">AI Apps Developer & Founder of Freelancer AI Studio</h3>
+  <h3 align="center">Developer & Founder of AI Apps Studio</h3>
 </div>
 
 ---
