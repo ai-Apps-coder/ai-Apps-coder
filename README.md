@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Ioan Ciprian Popa 👋</h1>
-  <h3 align="center">Developer & Founder of AI Apps Studio</h3>
+  <h3 align="center">Developer for AI Apps Studio</h3>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 
 I am a forward-thinking **AI Apps Developer** specializing in bridging the gap between mobile/web applications and cutting-edge artificial intelligence. My core value is implementing the "smart" layer of your application, transforming standard apps into intelligent, next-generation user experiences.
 
-Honesty, clarity, and a passion for exploring the practical applications of **Generative AI** define my work. I am the founder of **Freelancer AI Studio**, where I build custom AI solutions for clients.
+Honesty, clarity, and a passion for exploring the practical applications of **Generative AI** define my work. I am the founder of **AI Apps Studio**, where I build custom AI solutions for clients.
 
 ---
 
