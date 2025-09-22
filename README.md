@@ -60,5 +60,5 @@ I manage my main projects under my creative brand, **ai-Apps-Studio**. This is w
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-Apps-coder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ai-Apps-coder's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ai-Apps-coder&show_icons=true&theme=dracula&include_all_commits=true" alt="ai-Apps-coder's GitHub stats" />
 </div>
